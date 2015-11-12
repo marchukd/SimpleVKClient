@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_page"
+            android:title="Моя сторінка" />
+        <item
+            android:id="@+id/nav_friends"
+            android:title="Друзі" />
+        <item
+            android:id="@+id/nav_friends_online"
+            android:title="Друзі онлайн" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Галерея" />
+        <item
+            android:id="@+id/nav_groups"
+            android:title="Групи" />
+    </group>
+</menu>

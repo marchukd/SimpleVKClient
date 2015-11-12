@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VKClient</string>
+    <string name="action_settings">Settings</string>
+    <integer name="app_id">5140151</integer>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="text_tab_header">tab</string>
+</resources>
